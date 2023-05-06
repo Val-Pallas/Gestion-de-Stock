@@ -1,0 +1,22 @@
+id,nom,race,id_cage,ne,pays
+1,Cheval,Mustang,1,01/01/2001,EEUU
+2,Cheval,Mustang,1,01/01/2001,EEUU
+3,Cheval,Mustang,1,01/01/2001,EEUU
+4,cheval,Mustang,1,01/01/2001,Argentine
+5,cheval,Mustang,1,01/01/2001,Argentine
+6,Cheval,Mustang,1,01/01/2001,Argentine
+7,Cheval,Mustang,1,01/01/2001,Argentine
+8,Cheval,Mustang,1,01/01/2001,Argentine
+9,cheval,mamifere,1,01/03/2020,Canda
+10,cheval,mamifere,1,01/03/2020,Canda
+11,Cheval,Mamifere,2,02/02/2020,Canada
+12,Cheval,Mamifere,2,02/02/2020,Canada
+13,Chien,San bernardo,1,04/01/1990,EEUU
+14,Chien,San bernardo,1,04/01/1990,EEUU
+15,Chien,San bernardo,1,04/01/1990,EEUU
+16,Chien,San bernardo,1,04/01/1990,EEUU
+17,Chien,San bernardo,1,04/01/1990,EEUU
+18,Chien,San bernardo,1,04/01/1990,EEUU
+19,gato,siames,2,02/02,Africa
+20,gato,siames,2,02/02,Africa
+21,gato,siames,4,03/04,Africa
